@@ -41,3 +41,11 @@ Dieses Projekt wird unter der [MIT Lizenz](https://opensource.org/licenses/MIT) 
 Beiträge, Verbesserungsvorschläge und Feedback sind immer willkommen!  
 Besuche unsere Webseiten [www.phinit.de](https://www.phinit.de) bzw. [www.psscripts.de](https://www.psscripts.de)!  
 Bitte erstelle ein Issue oder reiche einen Pull Request ein, wenn du Ideen hast oder etwas verbessern möchtest.
+
+---
+# Impressum
+Angaben gemäß Informationspflicht laut § 5 Telemediengesetz (TMG) und Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+
+Andreas Hepp
+Falkenstr. 87
+72270 Baiersbronn
