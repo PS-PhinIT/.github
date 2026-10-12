@@ -80,6 +80,7 @@ Angaben gemäß § 5 Digitale-Dienste-Gesetz (DDG) und inhaltlich verantwortlich
 
 Andreas Hepp  
 Falkenstr. 87  
-72270 Baiersbronn  
-E-Mail: kontakt@phinit.de  
+72270 Baiersbronn 
+
+E-Mail: security@phinit.de  
 Website: [www.phinit.de](https://www.phinit.de)
