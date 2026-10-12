@@ -1,7 +1,7 @@
 # PhinIT Hub
-### Powered by [phinit.de](https://www.phinit.de) & [psscripts.de](https://www.psscripts.de)
+## Powered by [phinit.de](https://www.phinit.de) & [psscripts.de](https://www.psscripts.de)
 
-Welcome to the central repository hub of **PhinIT**.  
+### Welcome to the central repository hub of **PhinIT**.  
 Here you will find a broad spectrum of open-source projects, administrative tools, and production-tested automation solutions for modern IT environments — spanning web application development, cloud governance, and enterprise infrastructure management.
 
 👉 **[Explore All Repositories](https://github.com/orgs/PS-PhinIT/repositories)**
@@ -35,12 +35,11 @@ Contributions, suggestions, and feedback are always welcome!
 Unless explicitly stated otherwise in an individual repository, projects are published under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
----
 
-# PhinIT Entwickler- & IT-Automations-Hub
-### Das GitHub-Zuhause von [phinit.de](https://www.phinit.de) & [psscripts.de](https://www.psscripts.de)
+# PhinIT Hub
+## Das GitHub-Zuhause von [phinit.de](https://www.phinit.de) & [psscripts.de](https://www.psscripts.de)
 
-Willkommen im zentralen Organisations-Hub von **PhinIT**.  
+### Willkommen im zentralen Organisations-Hub von **PhinIT**.  
 Hier findest du ein vielseitiges Spektrum an Open-Source-Projekten, Administrationswerkzeugen und praxiserprobten Automatisierungslösungen für moderne IT-Infrastrukturen – von Webentwicklung über Cloud Governance bis hin zu tiefgreifendem System-Management.
 
 👉 **[Alle Repositories in der Gesamtübersicht](https://github.com/orgs/PS-PhinIT/repositories)**
